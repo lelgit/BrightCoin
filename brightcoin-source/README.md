@@ -10,13 +10,13 @@ What is BrightCoin?
 ----------------
 
 BrightCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+ - Scrypt hashing algorithm  
  - 1 minute block targets
- - subsidy halves in 210,000 blocks blocks 
+ - subsidy halves in 210,000 blocks 
  - ~214,285,714  total coins
-
-
  - 500 coins per block before first halving
- - 10 minutes retarget difficulty
+ - 10 minutes to retarget difficulty
+ - only 2 percent premine to help get us on exchanges and pay for further development
 
 
 
