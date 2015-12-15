@@ -1,0 +1,34 @@
+src/*.exe
+src/brightcoin
+src/brightcoind
+src/test_brightcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.brightcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+brightcoin-qt
+BrightCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+brightcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
