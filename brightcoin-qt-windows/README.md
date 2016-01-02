@@ -15,6 +15,8 @@ BrightCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorith
  - ~ 214285714  total coins
  - 500 coins per block
  - 10 blocks to retarget difficulty
+ - Premine Percent 	1.9999998693333 %
+ - Premine Amount 	4285714 coins
 
 For more information, as well as an immediately useable, binary version of
 the BrightCoin client sofware, see http://www.brightcoin.org.
