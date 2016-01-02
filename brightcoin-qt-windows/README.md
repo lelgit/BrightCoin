@@ -13,8 +13,6 @@ BrightCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorith
  - 1 minute block targets
  - subsidy halves in 210k blocks
  - ~ 214285714  total coins
-
-The rest is the same as Bitcoin.
  - 500 coins per block
  - 10 blocks to retarget difficulty
 
